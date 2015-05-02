@@ -2,5 +2,5 @@
 
 Just record joe's daily idea and found!
 2015
-
-joe
+My stupid boss still prefers SVN.
+joeseesun
